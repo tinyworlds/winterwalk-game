@@ -1,2 +1,5 @@
-# winterwalk-game
-Tiny, cozy game made with Bitsy, about going on a winter walk
+# A Cozy Winterwalk
+Downlad & open “index.html” in Firefox or chrome
+arrow keys to play
+
+Enjoy :)
